@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+database/attendance.db
+data/student_images/
+models/face_recognition_model.mat
+.env
+.vscode/
